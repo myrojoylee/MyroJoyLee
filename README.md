@@ -4,10 +4,22 @@ Myro here! Currently studying web development in the UPenn LPS Coding Bootcamp! 
 
 
 
-Skills: HTML / CSS / JS
+## Skills: 
+HTML / CSS / JS
 
-- 🌱 I’m currently learning React JS 
-- ⚡ Fun fact: I'm a lifelong knitter :yarn: 
+## Currently Learning:
+React
+
+## Recent Projects/WIP:
+CALCULATOR
+
+<img src="https://github.com/myrojoylee/MyroJoyLee/blob/main/calculator_demo.gif" width = "256" />
+
+[Click here for repo](https://github.com/myrojoylee/calculator)
+
+[Click here for live demo](https://myrojoylee.github.io/calculator/)
+
+Technologies used: HTML, CSS, JS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/myro-joy-lee-996103257/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pandab32rcodes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/p2nd2b32r)  
