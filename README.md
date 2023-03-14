@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B9C8F1&background=B9C8F100&vCenter=true&width=435&lines=Welcome!;Have+a+look+around+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-<img width="90%" src="https://github.com/myrojoylee/MyroJoyLee/blob/main/profile_banner.png" alt="profile-banner" />
+<img src="https://github.com/myrojoylee/MyroJoyLee/blob/main/profile_banner.png" alt="profile-banner" />
 
 Myro here! Currently studying web development in the UPenn LPS Coding Bootcamp! 
 
