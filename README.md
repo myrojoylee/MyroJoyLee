@@ -2,30 +2,34 @@
 
 <img src="https://github.com/myrojoylee/MyroJoyLee/blob/main/profile_banner.png" alt="profile-banner" />
 
-Myro here! Currently studying web development in the UPenn LPS Coding Bootcamp! 
+Myro here!
 
-Check out projects I've recently completed and look around for repos that hold my works in progress! 
+I have recently graduated from UPenn's LPS Coding Bootcamp!
+
+Visit my [website](https://myrojoylee.netlify.app/) or look around my GitHub for current and past projects.
 
 I also create content to put a lighthearted spin on my coding journey on my Instagram account, pandab32rcodes. 
 
 
 
 ## Skills: 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Currently Learning:
-React
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Recent Projects/WIP:
-CALCULATOR
+"Panda Knits" - Ecommerce app
 
-<img src="https://github.com/myrojoylee/MyroJoyLee/blob/main/calculator_demo.gif" width = "256" />
+![panda-knits](https://github.com/myrojoylee/MyroJoyLee/assets/120980593/135c5fa9-b968-4382-a31e-539f87a34457)
 
-[Click here for repo](https://github.com/myrojoylee/calculator)
+[Click here for repo](https://github.com/myrojoylee/panda-knits)
 
-[Click here for live demo](https://myrojoylee.github.io/calculator/)
+[Click here for live demo](https://panda-knits-847b929e7885.herokuapp.com/)
 
-Technologies used: HTML, CSS, JS
+Technologies used: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/myro-joy-lee-996103257/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pandab32rcodes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/p2nd2b32r)  
