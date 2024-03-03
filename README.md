@@ -4,11 +4,13 @@
 
 Myro here!
 
+I am currently a Platinum Team Lead at Remotasks and manage the success of a team of coder-contributors. Together we help train LLMs (Large Language Models) which are probably more commonly known as AI chatbots!
+
 I have recently graduated from UPenn's LPS Coding Bootcamp!
 
 Visit my [website](https://myrojoylee.netlify.app/) or look around my GitHub for current and past projects.
 
-I also create content to put a lighthearted spin on my coding journey on my Instagram account, pandab32rcodes. 
+I occasionally create content to put a lighthearted spin on my coding journey on my Instagram account, pandab32rcodes. 
 
 
 
