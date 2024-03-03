@@ -4,7 +4,7 @@
 
 Myro here!
 
-I am currently a Platinum Team Lead at Remotasks and manage the success of a team of coder-contributors. Together we help train LLMs (Large Language Models) which are probably more commonly known as AI chatbots!
+I am currently a Platinum Team Lead at Remotasks and manage the success of a team of coder-contributors. Together we help train LLMs (Large Language Models) which are more commonly known as AI chatbots!
 
 I have recently graduated from UPenn's LPS Coding Bootcamp!
 
