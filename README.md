@@ -26,6 +26,14 @@ I occasionally create content to put a lighthearted spin on my coding journey on
 
 ![wmw-v1-demo](https://github.com/myrojoylee/MyroJoyLee/assets/120980593/6270c97b-d52c-4891-89ff-384f4f388783)
 
+[Click here for repo](https://github.com/myrojoylee/wmw-v1.5)
+
+[Click here for live demo](https://wmw-v1.netlify.app/)
+
+### "Tic Tac Toe" - HTML/CSS/JS app
+
+![tic-tac-toe](https://github.com/myrojoylee/MyroJoyLee/assets/120980593/eef1d8c7-ac7b-4b5e-8606-bca67fe4589c)
+
 [Click here for repo](https://github.com/myrojoylee/tic-tac-toe)
 
 [Click here for live demo](https://myrojoylee.github.io/tic-tac-toe/)
