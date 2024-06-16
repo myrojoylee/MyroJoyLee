@@ -4,14 +4,13 @@
 
 Myro here!
 
-I am currently a Platinum Team Lead at Remotasks and manage the success of a team of coder-contributors. Together we help train LLMs (Large Language Models) which are more commonly known as AI chatbots!
+I am currently a Queue Manager at Scale AI and work directly with the pipelines to help train Large Language Models (LLM). I was previously a Platinum Team Lead and managed the success of a team of coder-contributors. I basically work with what is commonly known as AI chatbots!
 
-I have recently graduated from UPenn's LPS Coding Bootcamp!
+I am a graduate of UPenn's LPS Coding Bootcamp!
 
 Visit my [website](https://myrojoylee.netlify.app/) or look around my GitHub for current and past projects.
 
 I occasionally create content to put a lighthearted spin on my coding journey on my Instagram account, pandab32rcodes. 
-
 
 
 ## Skills: 
@@ -20,18 +19,18 @@ I occasionally create content to put a lighthearted spin on my coding journey on
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Currently Learning:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Recent Projects/WIP:
-"Panda Knits" - Ecommerce app
+## Selected Projects:
+### "What's My Weather" - React/TypeScript app
 
-![panda-knits](https://github.com/myrojoylee/MyroJoyLee/assets/120980593/135c5fa9-b968-4382-a31e-539f87a34457)
+![wmw-v1-demo](https://github.com/myrojoylee/MyroJoyLee/assets/120980593/6270c97b-d52c-4891-89ff-384f4f388783)
 
-[Click here for repo](https://github.com/myrojoylee/panda-knits)
+[Click here for repo](https://github.com/myrojoylee/tic-tac-toe)
 
-[Click here for live demo](https://panda-knits-847b929e7885.herokuapp.com/)
+[Click here for live demo](https://myrojoylee.github.io/tic-tac-toe/)
 
-Technologies used: ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+Technologies used: ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/myro-joy-lee-996103257/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/pandab32rcodes/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/p2nd2b32r)  
